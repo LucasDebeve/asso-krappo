@@ -1,0 +1,308 @@
+{
+  "title": "Statuts de l’association Krappo",
+  "intro": "Association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901.",
+
+  "fields": {
+    "adresseSiege": "",
+    "dateAdoption": "",
+    "pdf": ""
+  },
+
+  "titres": [
+    {
+      "titre": "Titre I – Constitution, nom, objet, siège, durée",
+      "articles": [
+        {
+          "numero": "1",
+          "titre": "Constitution et dénomination",
+          "blocs": [
+            { "p": "Il est fondé entre les personnes qui adhèrent aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, dénommée « Krappo »." }
+          ]
+        },
+        {
+          "numero": "2",
+          "titre": "Objet",
+          "blocs": [
+            { "p": "L’association a pour objet de promouvoir l’éducation populaire et la culture, à travers deux activités de même importance : la gestion de l’application Krappo, et l’organisation d’événements et de projets éducatifs et culturels, complétées par l’intervention pédagogique auprès d’autres organismes de formation." },
+            { "label": "a)", "sousTitre": "L’application Krappo.", "p": "L’association héberge, maintient, fait évoluer et fait vivre l’application Krappo, outil numérique de suivi des formations BAFA et BAFD, au service de l’éducation populaire. Elle peut notamment :" },
+            { "liste": [
+              "mettre l’application à disposition des organismes de formation, des équipes de formation (direction, formateurs) et des stagiaires ;",
+              "concéder des licences et des droits d’usage de l’application, à titre gratuit ou onéreux ;",
+              "assurer l’installation, la mise à jour, la sécurité et l’hébergement de l’application ;",
+              "accompagner les utilisateurs et former à l’usage de l’outil."
+            ] },
+            { "label": "b)", "sousTitre": "Les événements et les projets éducatifs et culturels.", "p": "L’association organise des événements et soutient des projets dans le champ de l’éducation populaire et de la culture, avec la même importance que l’application. Elle peut notamment :" },
+            { "liste": [
+              "organiser, seule ou avec des partenaires, tout type d’événement en lien direct ou indirect avec l’éducation populaire ou la culture (rencontres, ateliers, formations, spectacles, expositions, projections, fêtes, jeux, sorties, temps d’échange), ainsi que des événements de découverte du monde de l’animation et de l’outil, ouverts aux membres et, le cas échéant, au public ;",
+              "participer, en soutien ou en partenariat, à des opérations de financement menées par d’autres associations ou structures de l’éducation populaire, de l’animation, de la jeunesse ou de la culture (collectes, financement participatif, ventes, événements de solidarité), notamment pour des projets de mini-camps, séjours de vacances ou d’activités éducatives, en leur apportant un soutien financier, matériel ou humain, et lancer elle-même de telles opérations pour ses propres projets."
+            ] },
+            { "label": "c)", "sousTitre": "L’intervention et l’accompagnement pédagogique.", "p": "L’association peut intervenir, en tant qu’équipe ou à travers l’un de ses membres, dans les actions de formation d’autres organismes, notamment les formations BAFA et BAFD, dans une ou plusieurs régions, pour y assurer des missions de formation, d’encadrement, de conseil ou d’accompagnement pédagogique. Ces interventions sont encadrées par une convention écrite avec l’organisme concerné. Les sommes correspondantes sont perçues par l’association. Les membres du conseil d’administration qui interviennent à ce titre le font à titre bénévole : seuls leurs frais réels sont remboursés." },
+            { "p": "Plus généralement, l’association peut mener toute action en lien direct ou indirect avec son objet, conformément à son caractère non lucratif. Le conseil d’administration décide de chaque participation à une opération de financement. L’assemblée générale fixe chaque année, dans le budget, une enveloppe maximale pour les soutiens financiers apportés à d’autres structures. Aucun soutien n’est accordé à une structure dans laquelle un administrateur a un intérêt personnel, sans respecter l’article 16." }
+          ]
+        },
+        {
+          "numero": "3",
+          "titre": "Siège social",
+          "blocs": [
+            { "p": "Le siège social est fixé à la mairie de Livry-Louvercy, qui héberge l’association." },
+            { "p": "Adresse : {{adresseSiege}}.", "si": "adresseSiege" },
+            { "p": "Il peut être transféré par simple décision du conseil d’administration. Ce transfert est ensuite déclaré en préfecture." }
+          ]
+        },
+        {
+          "numero": "4",
+          "titre": "Durée",
+          "blocs": [
+            { "p": "La durée de l’association est illimitée." }
+          ]
+        }
+      ]
+    },
+    {
+      "titre": "Titre II – Les membres",
+      "articles": [
+        {
+          "numero": "5",
+          "titre": "Composition",
+          "blocs": [
+            { "p": "L’association se compose de :" },
+            { "liste": [
+              "membres fondateurs : Quentin Pigot, Lucas Debève, Adrien Moreau et Justine Flatet, signataires des présents statuts ;",
+              "membres actifs : personnes physiques à jour de leur cotisation, qui participent à la vie de l’association, sont invitées à ses événements (comme participantes ou comme bénévoles) et ont accès à l’application Krappo pour mener leurs formations et leurs activités ;",
+              "membres associés : personnes morales (associations, organismes de formation) à jour de leur cotisation, qui soutiennent l’outil ; elles donnent accès à l’application aux personnes qu’elles désignent dans le cadre de leur activité de formation ; chacune est représentée par une personne désignée ;",
+              "membres bienfaiteurs : personnes physiques ou morales qui soutiennent l’association par des dons ou une aide régulière. Elles n’ont pas accès à l’application, sauf si elles sont aussi membres actifs ou associés."
+            ] },
+            { "p": "Les membres fondateurs ont les mêmes droits que les membres actifs. Ils ne sont pas tenus de cotiser, sauf tant qu’ils siègent au conseil d’administration, où ils paient la même cotisation que les membres actifs. Ils gardent leur qualité de membre, leur voix délibérative et leur droit de vote à l’assemblée générale même lorsqu’ils ne font plus partie du conseil d’administration et ne cotisent plus, sauf exclusion pour motif grave prononcée dans les conditions de l’article 7. Un mineur peut être membre actif avec l’autorisation écrite de son représentant légal. Il n’a pas voix délibérative à l’assemblée générale et ne peut pas être élu au conseil d’administration." },
+            { "p": "Les stagiaires des organismes de formation n’ont pas besoin d’être membres : ils accèdent à l’application par l’intermédiaire de leur organisme." }
+          ]
+        },
+        {
+          "numero": "6",
+          "titre": "Admission et cotisation",
+          "blocs": [
+            { "p": "Pour devenir membre, il faut adhérer aux présents statuts et être agréé par le conseil d’administration, qui statue sur les demandes présentées. Le refus d’une adhésion n’a pas à être motivé." },
+            { "p": "Le montant de la cotisation annuelle est fixé par l’assemblée générale. Il varie selon la catégorie de membre : il est le même pour tous les membres actifs, et fixé par tranches pour les membres associés, en fonction de l’importance de leur activité de formation (grille annexée au règlement intérieur). Les membres bienfaiteurs choisissent librement le montant de leur don. Le montant versé ne donne pas plus de voix à l’assemblée générale. Les cotisations versées ne sont pas remboursables. Le paiement de la cotisation conditionne l’accès à l’application." }
+          ]
+        },
+        {
+          "numero": "7",
+          "titre": "Perte de la qualité de membre",
+          "blocs": [
+            { "p": "La qualité de membre se perd par :" },
+            { "liste": [
+              "la démission, adressée par écrit au président ;",
+              "le décès, ou la dissolution pour une personne morale ;",
+              "la radiation pour non-paiement de la cotisation, un mois après un rappel resté sans effet (cette cause ne s’applique pas aux membres fondateurs qui ne siègent plus au conseil d’administration) ;",
+              "l’exclusion prononcée par le conseil d’administration pour un motif grave, notamment l’atteinte aux intérêts de l’association, l’usage de l’application contraire à son objet ou aux règles de protection des données, des propos ou des comportements discriminatoires (sexistes, racistes, homophobes ou autres), du harcèlement ou des violences à l’égard d’un autre membre, d’un stagiaire ou de toute personne rencontrée dans le cadre des activités de l’association, ou tout autre comportement incompatible avec les valeurs de l’éducation populaire."
+            ] },
+            { "p": "Avant toute exclusion, le membre concerné est invité par écrit à présenter ses explications devant le conseil d’administration. Il peut se faire assister par la personne de son choix. Il peut faire appel de la décision devant la prochaine assemblée générale. Le règlement intérieur précise la procédure, y compris la suspension à titre conservatoire en cas de comportement grave et urgent." }
+          ]
+        }
+      ]
+    },
+    {
+      "titre": "Titre III – Administration et fonctionnement",
+      "articles": [
+        {
+          "numero": "8",
+          "titre": "Assemblée générale ordinaire",
+          "blocs": [
+            { "p": "L’assemblée générale ordinaire réunit tous les membres de l’association. Elle se tient au moins une fois par an, dans les six mois qui suivent la clôture de l’exercice." },
+            { "liste": [
+              "Convocation : les membres sont convoqués par écrit (courrier ou courriel) au moins 15 jours avant la date, avec l’ordre du jour. Elle est convoquée par le président, par le conseil d’administration, ou à la demande d’au moins un quart des membres.",
+              "Compétences : elle entend le rapport moral et d’activité, approuve les comptes de l’exercice et le budget prévisionnel, fixe le montant des cotisations, élit et révoque les membres du conseil d’administration, et se prononce sur toute question inscrite à l’ordre du jour.",
+              "Votes : chaque membre fondateur, actif majeur ou associé dispose d’une voix, quel que soit le montant de sa cotisation. Les membres bienfaiteurs ont une voix consultative. Un membre peut donner pouvoir à un autre membre, dans la limite de deux pouvoirs par personne. La participation et le vote à distance (visioconférence, vote électronique) sont possibles, si les moyens utilisés permettent d’identifier chaque membre.",
+              "Quorum : l’assemblée délibère valablement si au moins un quart des membres ayant voix délibérative sont présents ou représentés. À défaut, une seconde assemblée est convoquée au plus tôt 8 jours après, et délibère sans condition de quorum.",
+              "Majorité : les décisions sont prises à la majorité des voix exprimées. Le vote a lieu à main levée, sauf demande d’un membre pour un vote à bulletin secret, obligatoire pour les élections de personnes."
+            ] }
+          ]
+        },
+        {
+          "numero": "9",
+          "titre": "Assemblée générale extraordinaire",
+          "blocs": [
+            { "p": "Elle est convoquée dans les mêmes formes pour modifier les statuts, décider de la dissolution, d’une fusion ou d’une dévolution des biens. Elle délibère valablement si au moins la moitié des membres ayant voix délibérative sont présents ou représentés. À défaut, une seconde assemblée est convoquée au plus tôt 15 jours après, sans condition de quorum. Les décisions sont prises à la majorité des deux tiers des voix des membres présents ou représentés." }
+          ]
+        },
+        {
+          "numero": "10",
+          "titre": "Conseil d’administration",
+          "blocs": [
+            { "p": "L’association est administrée par un conseil d’administration de 4 à 7 membres, élus pour 2 ans par l’assemblée générale parmi les membres majeurs à jour de leur cotisation. Ils sont rééligibles." },
+            { "liste": [
+              "Réunions : le conseil se réunit au moins 3 fois par an, sur convocation du président ou à la demande d’un tiers de ses membres. Il peut se réunir à distance.",
+              "Décisions : le conseil délibère valablement si la moitié de ses membres sont présents ou représentés. Les décisions sont prises à la majorité des voix. En cas d’égalité, la voix du président est prépondérante.",
+              "Pouvoirs : le conseil prend toutes les décisions de gestion courante de l’association. Il agrée les membres, fixe les tarifs et les conditions des licences et des droits d’usage, valide le budget, les contrats, le règlement intérieur et la politique de confidentialité, et prépare les assemblées générales.",
+              "Vacance : en cas de vacance d’un poste, le conseil peut pourvoir provisoirement au remplacement, sous réserve de ratification par la prochaine assemblée générale.",
+              "Absences et révocation : un administrateur qui manque trois réunions consécutives sans excuse peut être déclaré démissionnaire par le conseil. L’assemblée générale peut révoquer un administrateur à tout moment, après l’avoir entendu."
+            ] }
+          ]
+        },
+        {
+          "numero": "11",
+          "titre": "Bureau",
+          "blocs": [
+            { "p": "Le conseil d’administration élit parmi ses membres, pour la durée de leur mandat, un bureau composé au minimum d’un président, d’un vice-président, d’un trésorier et d’un secrétaire. Les fonctions de président et de trésorier ne peuvent pas être cumulées, ni celles de président et de vice-président." },
+            { "liste": [
+              "Le président représente l’association dans tous les actes de la vie civile et devant la justice. Il convoque les assemblées et le conseil, et en dirige les débats. Il peut déléguer certains de ses pouvoirs par écrit.",
+              "Le vice-président remplace le président en cas d’absence ou d’empêchement, avec les mêmes pouvoirs. Il peut aussi se voir confier, par le conseil, la responsabilité d’un domaine précis, notamment technique.",
+              "Le trésorier tient les comptes, encaisse les recettes, effectue ou fait effectuer les paiements, et présente les comptes à l’assemblée générale. Le président et le trésorier disposent chacun du pouvoir de signature sur le compte bancaire. Au-delà d’un seuil fixé par le règlement intérieur, toute dépense exige l’accord écrit de deux membres du bureau.",
+              "Le secrétaire convoque les assemblées et le conseil sur instruction du président, rédige et conserve les procès-verbaux, tient la liste des membres, et assure les formalités de déclaration auprès de la préfecture."
+            ] }
+          ]
+        },
+        {
+          "numero": "12",
+          "titre": "Procès-verbaux et registres",
+          "blocs": [
+            { "p": "Les décisions des assemblées et du conseil sont constatées par des procès-verbaux signés par le président et le secrétaire, conservés dans un registre. L’association tient également le registre spécial prévu par la loi du 1er juillet 1901, qui consigne les changements dans l’administration et les modifications des statuts, ainsi que la liste de ses membres, dans le respect des règles de protection des données personnelles." }
+          ]
+        }
+      ]
+    },
+    {
+      "titre": "Titre IV – Ressources et gestion désintéressée",
+      "articles": [
+        {
+          "numero": "13",
+          "titre": "Ressources",
+          "blocs": [
+            { "p": "Les ressources de l’association comprennent :" },
+            { "liste": [
+              "les cotisations ;",
+              "les sommes perçues en contrepartie de l’utilisation de l’application et des services associés (licences, droits d’usage, hébergement, accompagnement) et pour ses interventions auprès d’autres organismes de formation ;",
+              "les subventions de l’État, des collectivités et des organismes publics ou privés ;",
+              "les dons, legs et le mécénat ;",
+              "toute autre ressource autorisée par la loi."
+            ] },
+            { "p": "L’association peut concéder à ses membres, notamment aux organismes de formation, des licences et des droits d’usage de l’application. Les conditions et les tarifs sont fixés par le conseil d’administration, dans les limites du règlement intérieur. Ils sont déterminés pour couvrir les coûts réels de fonctionnement de l’application et constituer une réserve raisonnable au service de l’objet de l’association, dans un esprit d’accessibilité pour les organismes de formation et les structures de l’éducation populaire." },
+            { "p": "L’accès à l’application est réservé aux membres fondateurs, actifs et associés à jour de leur cotisation, et aux personnes auxquelles ils donnent accès dans le cadre de leur activité de formation. Le défaut de paiement, la radiation ou l’exclusion mettent fin à l’accès, après un préavis écrit permettant à l’utilisateur de récupérer ses données." }
+          ]
+        },
+        {
+          "numero": "14",
+          "titre": "Gestion désintéressée",
+          "blocs": [
+            { "p": "L’association est à but non lucratif. Sa gestion est désintéressée." },
+            { "liste": [
+              "Aucun excédent n’est distribué, sous quelque forme que ce soit, aux membres ni aux administrateurs. Les excédents sont réinvestis dans l’objet de l’association : fonctionnement et évolution de l’application, événements, réserve de trésorerie raisonnable. Leur usage est discuté chaque année en assemblée générale.",
+              "Les membres du conseil d’administration et du bureau exercent leurs fonctions à titre bénévole. Ils ne perçoivent aucune rémunération, ni à raison de leurs fonctions, ni pour un travail ou une prestation effectués pour l’association, tant qu’ils sont membres du conseil.",
+              "Les membres de l’association n’ont aucun droit sur les biens de l’association, en particulier la marque et les noms de domaine, qui appartiennent à l’association seule."
+            ] }
+          ]
+        },
+        {
+          "numero": "15",
+          "titre": "Remboursement des frais",
+          "blocs": [
+            { "p": "Les membres, y compris les membres du bureau, peuvent être remboursés des frais réels engagés pour l’association (déplacements, achats, hébergement, repas), sur note de frais écrite et justificatifs. Les frais kilométriques sont remboursés sur la base du barème kilométrique fixé par l’administration fiscale pour les bénévoles. Nul ne valide sa propre note de frais. Les modalités sont précisées par le règlement intérieur." },
+            { "p": "Un membre peut renoncer expressément et par écrit au remboursement d’une note de frais, qui constitue alors un don à l’association. Un reçu fiscal ne peut être délivré que si l’association y est autorisée par la loi." }
+          ]
+        },
+        {
+          "numero": "16",
+          "titre": "Conventions avec les administrateurs",
+          "blocs": [
+            { "p": "Toute convention conclue entre l’association et l’un de ses administrateurs, ou une personne qui lui est liée, est soumise à l’autorisation préalable du conseil d’administration, sans la participation au vote de la personne concernée. Elle est mentionnée au rapport présenté à la prochaine assemblée générale." }
+          ]
+        },
+        {
+          "numero": "17",
+          "titre": "Exercice et comptabilité",
+          "blocs": [
+            { "p": "L’exercice commence le 1er janvier et se termine le 31 décembre. Le premier exercice commence à la date de constitution de l’association et se termine le 31 décembre 2027." },
+            { "p": "L’association tient une comptabilité régulière, qui retrace toutes ses recettes et ses dépenses. Les comptes de l’exercice sont arrêtés par le conseil d’administration et approuvés par l’assemblée générale. Ils sont tenus à la disposition de tous les membres." }
+          ]
+        }
+      ]
+    },
+    {
+      "titre": "Titre V – Application, marque et protection des données personnelles",
+      "articles": [
+        {
+          "numero": "18",
+          "titre": "Application, marque et noms de domaine",
+          "blocs": [
+            { "p": "L’association exploite l’application Krappo, son code source et sa documentation grâce à la mise à disposition gratuite consentie par leurs auteurs. Elle est seule titulaire de sa marque, de ses noms de domaine (notamment krappo.fr et app.krappo.fr) et de ses comptes d’hébergement, qu’elle détient en son nom. Au moins deux membres du bureau y ont accès, afin que l’activité ne dépende jamais d’une seule personne. Le conseil d’administration décide des conditions générales d’utilisation proposées aux utilisateurs." }
+          ]
+        },
+        {
+          "numero": "19",
+          "titre": "Protection des données personnelles",
+          "blocs": [
+            { "p": "L’association respecte le règlement (UE) 2016/679 du 27 avril 2016 (RGPD) et la loi du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés." },
+            { "liste": [
+              "Les données personnelles ne sont traitées que pour gérer les comptes des utilisateurs, organiser et suivre les sessions de formation, enregistrer les observations et évaluations des stagiaires, assurer la facturation, gérer les membres et garantir la sécurité de l’application. Elles ne sont ni revendues, ni utilisées à des fins publicitaires.",
+              "Seules les données nécessaires sont collectées, conservées pour une durée limitée, et protégées par des mesures de sécurité adaptées. L’accès dépend du rôle de chacun.",
+              "L’association est responsable de traitement pour ses propres données (membres, comptes, facturation, sécurité) et sous-traitante des organismes de formation pour les données de leurs stagiaires. Les données sont hébergées dans l’Union européenne.",
+              "Le conseil d’administration désigne parmi ses membres un référent à la protection des données, chargé du registre des traitements et des demandes des personnes concernées.",
+              "Le détail figure dans la politique de confidentialité et dans le règlement intérieur."
+            ] }
+          ]
+        }
+      ]
+    },
+    {
+      "titre": "Titre VI – Règlement intérieur, modification, dissolution",
+      "articles": [
+        {
+          "numero": "20",
+          "titre": "Règlement intérieur",
+          "blocs": [
+            { "p": "Le conseil d’administration établit un règlement intérieur, qui précise les points non prévus par les statuts : fonctionnement de l’association, cotisations, modalités des notes de frais, règles d’usage de l’application, licences et tarifs, durées de conservation des données. Il est approuvé par l’assemblée générale. Il ne peut pas contredire les statuts." }
+          ]
+        },
+        {
+          "numero": "21",
+          "titre": "Modification des statuts",
+          "blocs": [
+            { "p": "Les statuts peuvent être modifiés par une assemblée générale extraordinaire, sur proposition du conseil d’administration ou d’au moins un quart des membres, dans les conditions de l’article 9. Les modifications sont déclarées en préfecture dans les trois mois." }
+          ]
+        },
+        {
+          "numero": "22",
+          "titre": "Dissolution",
+          "blocs": [
+            { "p": "La dissolution est prononcée par une assemblée générale extraordinaire, dans les conditions de l’article 9. L’assemblée désigne un ou plusieurs liquidateurs, chargés de la liquidation des biens." },
+            { "p": "L’actif net est attribué à une association ou à un organisme poursuivant un but proche, désigné par l’assemblée. Il ne peut en aucun cas être partagé entre les membres, ni revenir à un administrateur." },
+            { "p": "En cas de dissolution, l’association veille à la restitution ou à la suppression des données personnelles dont elle a la charge, et à la continuité de l’accès des organismes à leurs données pendant une durée raisonnable." }
+          ]
+        },
+        {
+          "numero": "23",
+          "titre": "Liens avec d’autres associations",
+          "blocs": [
+            { "p": "L’association peut adhérer à une autre association, à une union ou à une fédération poursuivant un but proche, ou créer des liens avec elles par convention. Ces liens ne remettent pas en cause son indépendance juridique, ni l’exploitation de l’application, ni sa propriété de la marque et des noms de domaine." }
+          ]
+        },
+        {
+          "numero": "24",
+          "titre": "Formalités",
+          "blocs": [
+            { "p": "Le président, ou toute personne qu’il mandate, accomplit les formalités de déclaration et de publication prévues par la loi du 1er juillet 1901 et le décret du 16 août 1901." },
+            { "p": "Les présents statuts ont été adoptés par l’assemblée générale constitutive du {{dateAdoption}}.", "si": "dateAdoption" }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "annexes": [
+    {
+      "id": "premier-conseil",
+      "titre": "Premier conseil d’administration",
+      "blocs": [
+        { "p": "L’assemblée générale constitutive désigne comme premiers membres du conseil d’administration, pour un mandat de 2 ans à compter de sa tenue, les quatre membres fondateurs. Le conseil élit le bureau suivant :" },
+        { "tableau": {
+          "entetes": ["Fonction", "Nom"],
+          "lignes": [
+            ["Président", "Quentin Pigot"],
+            ["Vice-président", "Lucas Debève"],
+            ["Trésorière", "Justine Flatet"],
+            ["Secrétaire", "Adrien Moreau"]
+          ]
+        } }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "site": {
+    "name": "Krappo",
+    "tagline": "Association d'éducation populaire",
+    "description": "Krappo est une association loi 1901 qui fait vivre l'application Krappo pour le suivi des formations BAFA et BAFD, et organise des événements éducatifs et culturels.",
+    "lang": "fr"
+  },
+
+  "theme": {
+    "primary": "#1f6f50",
+    "primaryDark": "#7fd3ad",
+    "accent": "#e8833a",
+    "accentDark": "#f2a66b",
+    "fontHeading": "Bricolage Grotesque",
+    "fontBody": "Inter"
+  },
+
+  "logo": {
+    "image": "",
+    "alt": "Krappo"
+  },
+
+  "hero": {
+    "eyebrow": "Association loi 1901",
+    "title": "L'éducation populaire, avec un outil et des rencontres",
+    "text": "Krappo fait vivre une application de suivi des formations BAFA et BAFD, et organise des événements éducatifs et culturels. Deux activités, une même importance.",
+    "actions": [
+      { "label": "Découvrir l'application", "href": "#application", "style": "primary" },
+      { "label": "Nous contacter", "href": "#contact", "style": "secondary" }
+    ]
+  },
+
+  "sections": [
+    {
+      "id": "application",
+      "type": "app",
+      "navLabel": "L'application",
+      "title": "L'application Krappo",
+      "intro": "Un outil numérique au service des formations BAFA et BAFD, pensé pour les organismes de formation, les équipes (direction, formateurs) et les stagiaires.",
+      "features": [
+        { "title": "Suivi des formations", "text": "Organiser et suivre les sessions, les observations et les évaluations des stagiaires." },
+        { "title": "Pour toute l'équipe", "text": "Direction, formateurs et stagiaires accèdent à ce qui les concerne, selon leur rôle." },
+        { "title": "Accompagnement", "text": "Installation, mise à jour, formation à l'usage de l'outil : l'association accompagne les utilisateurs." },
+        { "title": "Données protégées", "text": "Conforme au RGPD, hébergé dans l'Union européenne. Les données ne sont ni revendues ni utilisées à des fins publicitaires." }
+      ],
+      "note": "L'accès est réservé aux membres de l'association et aux stagiaires des organismes de formation membres.",
+      "action": { "label": "Accéder à l'application", "href": "https://app.krappo.fr" }
+    },
+    {
+      "id": "evenements",
+      "type": "events",
+      "navLabel": "Événements",
+      "title": "Événements et projets",
+      "intro": "Rencontres, ateliers, spectacles, jeux, sorties, temps d'échange… L'association organise des événements, seule ou avec des partenaires, et soutient des projets d'autres structures de l'éducation populaire, comme des mini-camps ou des séjours de vacances.",
+      "emptyText": "Aucun événement à venir pour le moment. Revenez bientôt !",
+      "events": [
+        {
+          "title": "Exemple d'événement (à remplacer)",
+          "date": "2027-03-14",
+          "endDate": "",
+          "time": "14h – 18h",
+          "location": "Livry-Louvercy",
+          "description": "Une après-midi de découverte du monde de l'animation : jeux, ateliers et présentation de l'application.",
+          "link": { "label": "S'inscrire", "href": "" }
+        }
+      ]
+    },
+    {
+      "id": "intervention",
+      "type": "text",
+      "navLabel": "Intervention",
+      "title": "Intervention pédagogique",
+      "paragraphs": [
+        "L'association intervient, en équipe ou à travers l'un de ses membres, dans les actions de formation d'autres organismes, notamment les formations BAFA et BAFD, dans une ou plusieurs régions.",
+        "Formation, encadrement, conseil ou accompagnement pédagogique : chaque intervention fait l'objet d'une convention écrite avec l'organisme concerné."
+      ],
+      "action": { "label": "Proposer une intervention", "href": "#contact" }
+    },
+    {
+      "id": "equipe",
+      "type": "team",
+      "navLabel": "L'équipe",
+      "title": "L'équipe",
+      "intro": "Le bureau de l'association, composé de ses quatre membres fondateurs.",
+      "members": [
+        { "name": "Quentin Pigot", "role": "Président", "photo": "", "bio": "" },
+        { "name": "Lucas Debève", "role": "Vice-président", "photo": "", "bio": "" },
+        { "name": "Justine Flatet", "role": "Trésorière", "photo": "", "bio": "" },
+        { "name": "Adrien Moreau", "role": "Secrétaire", "photo": "", "bio": "" }
+      ]
+    },
+    {
+      "id": "contact",
+      "type": "contact",
+      "navLabel": "Contact",
+      "title": "Nous contacter",
+      "text": "Une question sur l'application, une envie de rejoindre l'association, une idée d'événement ou de partenariat ? Écrivez-nous.",
+      "formUrl": "",
+      "formLabel": "Ouvrir le formulaire de contact",
+      "embed": false,
+      "embedHeight": 720
+    }
+  ],
+
+  "footer": {
+    "text": "Krappo, association loi 1901 hébergée par la mairie de Livry-Louvercy.",
+    "links": [
+      { "label": "Statuts", "href": "statuts.html" },
+      { "label": "Application", "href": "https://app.krappo.fr" }
+    ]
+  }
+}
